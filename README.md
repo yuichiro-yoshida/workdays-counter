@@ -20,3 +20,7 @@
 ## 背景
 
 以前の職場を退職する際に、引き継ぎ等を円滑に進めるため、最終出社日まであと何営業日なのかを簡単に把握しようと思い作成しました。
+
+## 画面イメージ
+
+![](https://raw.githubusercontent.com/wiki/yuichiro-yoshida/workdays-counter/images/screen_image.png)
